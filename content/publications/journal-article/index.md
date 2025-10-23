@@ -1,9 +1,9 @@
 ---
-title: "Analyzing the Performance of Large Language Models in the Automatic Conversion of Colloquial Persian to Standard Writing based on the Confirmed Persian Orthography Grammar"
+title: "test"
 authors:
 - admin
-- Masood Ghayoomi
-- Fatemeh Mohammadi
+- test
+- test
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
