@@ -1,5 +1,5 @@
 ---
-title: ""Analyzing the Performance of Large Language Models in the Automatic Conversion of Colloquial Persian to Standard Writing based on the Confirmed Persian Orthography Grammar"
+title: "Analyzing the Performance of Large Language Models in the Automatic Conversion of Colloquial Persian to Standard Writing based on the Confirmed Persian Orthography Grammar"
 authors:
 - admin
 - Masood Ghayoomi
