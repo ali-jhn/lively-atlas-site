@@ -34,24 +34,25 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:ali.jahan.cs@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+#  - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/ali-jhn
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
+    url: https://www.linkedin.com/in/ali-jahan-b04a1b224/
+#  - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
+ # - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
+  - Machine Learning
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Natural Language Processing
+  - Information Retrieval
+
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -166,4 +167,5 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a final-year B.Sc. student in Computer Engineering at Amirkabir University of Technology (GPA 3.96/4.0). My research centers on Large Language Models and NLP for low-resource Persian, including active learning for informal-to-formal text conversion and cross-lingual argument mining, where a bilingual XLM-RoBERTa lifted F1 from 50% to 75%. I also explore time-series modeling for predictive maintenance, proposing a wavelet-conditioned diffusion-Transformer for NASA C-MAPSS turbofan data, and I have earlier work in spectral graph theory. I have one journal article under review and another in preparation, presented at the 12th Graph Theory and Algebraic Combinatorics Conference, and served multiple times as a TA for AI, Operating Systems, Data Structures, and more. Ranked 134th in Iran’s national entrance exam, I’m broadly interested in LLMs, NLP, IR, and ML, and I’m eager to pursue an MSc/PhD to advance reliable, data-efficient language technologies.
+
