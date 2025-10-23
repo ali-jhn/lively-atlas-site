@@ -53,31 +53,18 @@ interests:
 
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
   - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    institution: Amir Kabir University of Technology (Tehran Polytechnic)
+    date_start: 2021-10-01
+    date_end: 2025-06-30
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.96/4.0
+      Thesis on _Design and Implementation of a Hybrid System for Converting Informal Persian Text to Formal Text Using Large Language Models and Rule-Based Methods_. Supervised by Prof. Saeedeh Momtazi. 
 
-      Minored in Mathematics. President of AI Club.
+    
+
+    
+      
 
 work:
   - position: Senior AI Research Scientist
