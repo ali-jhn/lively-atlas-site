@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: ""Analyzing the Performance of Large Language Models in the Automatic Conversion of Colloquial Persian to Standard Writing based on the Confirmed Persian Orthography Grammar"
 authors:
 - admin
-- Robert Ford
+- Masood Ghayoomi
+- Fatemeh Mohammadi
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
