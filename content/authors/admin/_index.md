@@ -36,16 +36,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ali.jahan.cs@gmail.com'
     label: E-mail Me
-#  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/ali-jhn
+    label: Github
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ali-jahan-b04a1b224/
-#  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
- # - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    label: Linkedin
+
+    
 
 interests:
   - Machine Learning
