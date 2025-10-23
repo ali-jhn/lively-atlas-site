@@ -67,22 +67,15 @@ education:
       
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: NLP Researcher
+    company_name: Institute for Humanities and Cultural Studies
+    company_url: 'https://www.ihcs.ac.ir/en'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2024-10-10
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Leading research on Cross-lingual AI systems. Working on XLM-Roberta and other Qwen. Authored paper on argument mining and text conversion.
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
