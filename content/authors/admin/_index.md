@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Ali Jahan
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ali
+last_name: Jahan
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Computer Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Amir Kabir University of Technology (Tehran Polytechnic)
+    url: https://aut.ac.ir/index.php?sid=1&slc_lang=en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
