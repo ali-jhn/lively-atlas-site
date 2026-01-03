@@ -1,7 +1,7 @@
 ---
-title: "An example preprint / working paper"
+title: "Winning with Less for Low-Resource Languages: Advantage of Cross-Lingual English–Persian Argument Mining Model over LLM Augmentation"
 authors:
-- admin
+- admin,  Masood Ghayoomi, Annette Hautli-Janisz
 date: "2019-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
