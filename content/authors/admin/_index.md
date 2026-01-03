@@ -27,7 +27,7 @@ role: Computer Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Amir Kabir University of Technology (Tehran Polytechnic)
+  - name: Amirkabir University of Technology (Tehran Polytechnic)
     url: https://aut.ac.ir/index.php?sid=1&slc_lang=en
 
 # Social network links
@@ -42,6 +42,11 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/ali-jahan-b04a1b224/
     label: Linkedin
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=Oyaip0AAAAAJ
+    label: Google Scholar
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0007-7072-3342
 
     
 
@@ -53,10 +58,10 @@ interests:
 
 
 education:
-  - area: BS Computer Science
-    institution: Amir Kabir University of Technology (Tehran Polytechnic)
-    date_start: 2021-10-01
-    date_end: 2025-06-30
+  - area: B.Sc Computer Science
+    institution: Amirkabir University of Technology (Tehran Polytechnic)
+    date_start: 2021-09-01
+    date_end: 2026-02-28
     summary: |
       GPA: 3.96/4.0
       Thesis on _Design and Implementation of a Hybrid System for Converting Informal Persian Text to Formal Text Using Large Language Models and Rule-Based Methods_. Supervised by Prof. Saeedeh Momtazi. 
@@ -74,7 +79,7 @@ work:
     date_start: 2024-10-10
     date_end: ''
     summary: |2-
-      Leading research on Cross-lingual AI systems. Working on XLM-Roberta and other Qwen. Authored paper on argument mining and text conversion.
+      Leading research on Cross-lingual AI systems. Working on XLM-Roberta, Qwen, and gemma models. Authored paper on argument mining and text conversion.
   
 
 # Skills
@@ -145,5 +150,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am a final-year B.Sc. student in Computer Engineering at Amirkabir University of Technology (GPA 3.96/4.0). My research centers on Large Language Models and NLP for low-resource Persian, including active learning for informal-to-formal text conversion and cross-lingual argument mining, where a bilingual XLM-RoBERTa lifted F1 from 50% to 75%. I also explore time-series modeling for predictive maintenance, proposing a wavelet-conditioned diffusion-Transformer for NASA C-MAPSS turbofan data, and I have earlier work in spectral graph theory. I have one journal article under review and another in preparation, presented at the 12th Graph Theory and Algebraic Combinatorics Conference, and served multiple times as a TA for AI, Operating Systems, Data Structures, and more. Ranked 134th in Iran’s national entrance exam, I’m broadly interested in LLMs, NLP, IR, and ML, and I’m eager to pursue an MSc/PhD to advance reliable, data-efficient language technologies.
-
+I am a B.Sc. Computer Engineering student at Amirkabir University of Technology (Tehran Polytechnic). My research interests lie at the intersection of Large Language Models, Natural Language Processing, and Information Retrieval, with a focus on data-efficient learning, robust evaluation, and building reliable language technologies for low-resource settings. I plan to continue this academic and research path through graduate study. Fun fact about me: I enjoy music, especially piano, and I also love playing football.
